@@ -1,0 +1,47 @@
+Mercury is the closest planet to the Sun and the smallest in the Solar System. 
+It has a diameter of about 4,880 kilometers and orbits the Sun every 88 days. 
+Mercury has extreme temperature variations, ranging from -173°C at night to 427°C 
+during the day. It has no atmosphere to retain heat, resulting in these drastic 
+changes.
+
+Venus is the second planet from the Sun and is similar in size to Earth, with a 
+diameter of about 12,104 kilometers. It has a thick atmosphere composed mainly 
+of carbon dioxide, which creates a strong greenhouse effect, making it the hottest 
+planet in the Solar System with surface temperatures around 465°C. Venus has a 
+slow rotation, taking about 243 Earth days to complete one rotation.
+
+Earth is the third planet from the Sun and the only known planet to support life. 
+It has a diameter of about 12,742 kilometers and orbits the Sun every 365.25 days. 
+Earth has a diverse climate and a protective atmosphere composed of nitrogen, oxygen, 
+and other gases. It has one natural satellite, the Moon, which influences tides and 
+stabilizes the planet's axial tilt.
+
+Mars is the fourth planet from the Sun and is known as the Red Planet due to its 
+reddish appearance caused by iron oxide on its surface. It has a diameter of about 
+6,779 kilometers and orbits the Sun every 687 days. Mars has a thin atmosphere 
+composed mainly of carbon dioxide and experiences cold temperatures, averaging around 
+-60°C. It has two small moons, Phobos and Deimos.
+
+Jupiter is the fifth planet from the Sun and the largest in the Solar System, 
+with a diameter of about 139,820 kilometers. It has a strong magnetic field and 
+is known for its Great Red Spot, a giant storm that has been raging for centuries. 
+Jupiter has at least 79 moons, including the four largest: Io, Europa, Ganymede, 
+and Callisto. It takes about 12 Earth years to orbit the Sun.
+
+Saturn is the sixth planet from the Sun and is famous for its stunning ring 
+system, composed of ice and rock particles. It has a diameter of about 116,460 
+kilometers and orbits the Sun every 29.5 years. Saturn has a low density and is 
+mostly composed of hydrogen and helium. It has at least 83 moons, with Titan 
+being the largest and having a thick atmosphere.
+
+Uranus is the seventh planet from the Sun and has a unique tilt, rotating on its
+side with an axial tilt of 98 degrees. It has a diameter of about 50,724 kilometers
+and orbits the Sun every 84 years. Uranus has a cold atmosphere composed mainly of 
+hydrogen, helium, and methane, giving it a blue-green color. It has 27 known moons 
+and a faint ring system.
+
+Neptune is the eighth and farthest planet from the Sun, with a diameter of about
+49,244 kilometers. It has a strong wind system, with the fastest winds in the 
+Solar System reaching speeds of up to 2,100 kilometers per hour. Neptune has a 
+deep blue color due to methane in its atmosphere and orbits the Sun every 
+165 years. It has 14 known moons, with Triton being the largest.
